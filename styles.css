@@ -298,8 +298,10 @@ body {
     justify-content: center;
 }
 
-/* body > section > section > div > div > div > a:nth-child(1) {
-     */
+body > section > section > div > div > div > a:nth-child(1) {
+    display: flex;
+}
+     
 
 .call-to-action .buttons a {
     text-decoration: none;
