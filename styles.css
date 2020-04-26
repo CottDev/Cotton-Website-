@@ -298,11 +298,14 @@ body {
     justify-content: center;
 }
 
+/* body > section > section > div > div > div > a:nth-child(1) {
+     */
+
 .call-to-action .buttons a {
     text-decoration: none;
     color: inherit;
-    display: flex;
-    justify-content: center;
+/*     display: flex; */
+/*     justify-content: center; */
     padding: 0.8rem 1.563rem;
     border-radius: 50px;
     /* text-align: center; */
