@@ -299,6 +299,9 @@ body {
 }
 
 body > section > section > div > div > div > a:nth-child(1) {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
 }
      
